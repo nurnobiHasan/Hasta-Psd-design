@@ -1,0 +1,267 @@
+@media all and (max-width:1200px){
+	.logo {
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.feautute-content {
+		text-align: center;
+	}
+	.feautute-content p {
+		width: 60%;
+		margin: 0 auto;
+		margin-bottom:6px;
+	}
+	.feauture-contract {
+		float:none;
+		text-align:center;
+	}
+	.section-title {
+		padding-top: 64px;
+	}
+	.our-services-area{
+		padding-bottom:30px;
+	}
+	.our-feauture-img-project {
+		padding:65px 0px;
+	}
+	.excelent-feature-text {
+		text-align: center;
+	}
+	.excelent-feature-text p {
+		width: 60%;
+		margin: 0 auto;
+		padding-top: 12px;
+	}
+	.excelent-review{
+		text-align:center;
+	}
+	.single-company-progress {
+		width: 210px;
+		height: 220px;
+	}
+	.single-company-progress {
+		padding-top: 61px;
+	
+	}
+	.our-clients-reviews {
+		padding-top:80px;
+	
+	}
+	.client-name {
+		padding-top: 90px;
+	}
+	.single-teem-member-pick img {
+		width: 220px;
+		height: 220px;
+		margin-top: 23px;
+	}
+	.custom-pading{
+		margin-top:60px;
+	}
+	.our-single-service a{
+		left:35%;
+	}
+	.our-single-service ul {
+		width: 40%;
+	}
+	.post-text h4{
+		font-size:15px;
+	}
+	
+	.our-single-service a {
+		left: 24%;
+	}
+	.our-single-service a {
+		left: 35%;
+	}
+}
+@media all and (max-width:992px){
+	.header-top-area nav ul{
+		float:none;
+		text-align:center;
+		display:none;
+	}
+	.header-top-area nav ul li:last-child a{
+		margin-top:15px;
+	}
+	.mobile-menu{
+		display:block;
+		float:right;
+	}
+	.header-top-area .logo img {	
+		float: left;
+		margin-top:15px;
+	}
+	.header-top-area nav ul li{
+		float:none;
+	}
+	.header-top-area nav ul li a{
+		display:inline-block;
+	}
+	.header-top-area{
+		margin-bottom:30px !important;
+	}
+	.header-top-area {
+		margin-bottom:0px !important;
+	}
+	.single-history-item h1 {
+		text-align: center;
+		padding-top: 30px;
+	}
+	.single-history-item p {
+		width: 62%;
+		margin: 0 auto;
+		text-align: center;
+		padding-bottom: 40px;
+	}
+	.our-history-area {
+		padding: 40px 0px;
+	}
+	.section-title p{
+		width:85%;
+	}
+	.single-service-logo {
+		height: 200px;
+		width:40%;
+		text-align:center;
+	}
+	.single-service-logo img {
+		width: 60%;
+		height: 77%;
+	}
+	.singel-service-text {
+		text-align: center;
+	}
+	.singel-service-text p {
+		width: 60%;
+		margin: 0 auto;
+		padding-bottom:20px;
+	}
+	.excelent-feature-text p {
+		width:80%;
+	}
+	.single-company-progress {
+		margin: 0 auto;
+		margin-bottom:25px;
+	}
+	.single-teem-member-pick img {
+		width: 270px;
+		height: 270px;
+		 margin-bottom: 23px; 
+		 margin-top:0px;
+	}
+	.custom-pading{
+		margin-top:48px !important;
+	}
+	.single-image {
+		width: 24.6%;
+	}
+	.singel-service-text {
+		padding-bottom: 25px;
+	}
+	.single-service-logo {
+		height: 77px;
+		width: 100%;
+	}
+	.single-service-logo {
+		height: 82px;
+		width: 100%;
+		margin-bottom: 24px;
+	}
+	.single-service-logo img {
+		width: 11%;
+		height: 98%;
+	}
+	.our-single-service a {
+		left: 31%;
+	}
+	.single-slide-area {
+		padding: 129px 0px;
+	
+	}
+}
+@media all and (max-width:768px){
+	.single-teem-member-pick img {
+		width: 170px;
+		height: 170px;
+		margin-top:75px;
+	
+	}
+	.single-member-details{
+		margin-top:20px;
+	}
+	.our-single-service{
+		margin-top:40px;
+	}
+	.recent-post{
+		
+	}
+	.footer-title h2::after {
+		left: 11px;
+	}
+	.single-post{
+		padding-left:127px;
+	}
+	.single-post {
+		padding-bottom: 22px;
+		border:none;
+	
+	}
+	.footer-title {
+		padding-left:116px;
+		padding-top: 34px;
+	}
+	.usefull-link ul {
+		width: 51%;
+		margin: 0 auto;
+	}
+	.news-letter-area p {
+		font-size: 16px;
+		width:55%;
+		margin: 0 auto;
+	}
+	.news-letter-area span{
+		padding-left:113px;
+	}
+	.news-letter-area form {
+		width:53%;
+		margin: 0 auto;
+		margin-top: 11px;
+	}
+	.news-letter-area ul {
+		padding-left: 110px;
+		margin-top: 25px;
+	}
+	.footer-top-area{
+		padding-top:30px;
+	}
+	.slide-text h1{
+		font-size:40px;
+	}
+	.single-image {
+		width: 32.6%;
+		height:190px;
+	}
+	.single-service-logo{
+		margin-bottom: 12px;
+	}
+	.our-single-service a {
+		left: 36%;
+	}
+		
+	
+}
+@media all and (max-width:576px){
+	.single-teem-member-pick {
+		text-align: center;
+	}
+	.our-meet-area .section-title{
+		padding-bottom:0px;
+	}
+}
+@media all and (min-width:992px){
+	.header-top-area nav ul{
+		display:block;
+	}
+	
+}
